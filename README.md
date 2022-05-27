@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu-196018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web development with html,CSS and javascript.
+- 👀 I’m interested in MERN full stack development.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 
 <!---
