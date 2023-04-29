@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himanshu-196018
 - 👀 I’m interested in MERN full stack development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Python for backend.
 - 💞️ I’m looking to collaborate on ...
 
 <!---
